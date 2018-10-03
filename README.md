@@ -32,7 +32,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required | MicroStrategy component                         | OS required     |
 | -------- | ----------------- | ----------------------------------------------- | --------------- |
-| 1 t0 7   | MicroStrategy     |  MicroStrategy Intelligence Server              | Windows         |
+| 1 to 7   | MicroStrategy     |  MicroStrategy Intelligence Server              | Windows         |
 |          |                   |  MicroStrategy Web (Server)                     | Windows         |
 |          |                   |  MicroStrategy Mobile (Server)                  | Windows         |
 |          |                   |  MicroStrategy Developer (including Architect)  | Windows         |
