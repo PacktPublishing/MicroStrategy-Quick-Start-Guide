@@ -1,61 +1,47 @@
 # MicroStrategy Quick Start Guide
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/microstrategy-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789136241"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10823.png" alt="MicroStrategy Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [MicroStrategy Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [MicroStrategy Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/microstrategy-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789136241), published by Packt.
 
-**Subtitle from EPIC**
+**Data analytics and visualizations for Business Intelligence**
 
 ## What is this book about?
-First Paragraph from the Long Description
+MicroStrategy is an enterprise business intelligence application. It turns data into reports for making and executing key organization decisions. This book shows you how to implement Business Intelligence (BI) with MicroStrategy. It takes you from setting up and configuring MicroStrategy to security and administration.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features: 
+* Set up the MicroStrategy Intelligence Server and client tools
+* Create a MicroStrategy metadata repository and your first Project
+* Explore the main MicroStrategy object types and their dependencies
+* Create, manipulate, and share Reports
+* Create and share Dashboards
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789136245) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
-The code will look like the following:
-```
-if (test expression)
-{
-  Statement upon condition is true
-}
-```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is for Business Intelligence professionals or data analysts who want to get started with Microstrategy. Some basic understanding of BI and data analysis will be required to get the most from this book.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-7
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| Chapter  | MicroStrategy component                       | OS required            |
+| -------- | ----------------------------------------------|------------------------|
+|          | MicroStrategy Intelligence Server             | Windows                |
+|          | MicroStrategy Web (Server)                    | Windows                |
+|          | MicroStrategy Mobile (Server)                 | Windows                |
+|          | MicroStrategy Developer (including Architect) | Windows                |
+|          | MicroStrategy Object Manager                  | Windows                |
+|          | MicroStrategy Command Manager                 | Windows                |
+|          | MicroStrategy Enterprise Manager              | Windows                | 
+|          | MicroStrategy Integrity Manager               | Windows                |
+
+
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
